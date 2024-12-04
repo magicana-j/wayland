@@ -3,7 +3,7 @@
 sudo pacman -Syu
 sudo pacman -S --needed wayland xorg-xwayland xorg-server-xwayland polkit \
   fuzzel foot alacritty nwg-drawer \
-  waybar swaybg swaylock waylock swayidle \
+  waybar swaybg swaylock waylock swayidle wlogout \
   wf-recorder wl-clipboard wob obs-studio xwaylandvideobridge \
   noto-fonts-cjk fcitx5-{im,configtool,mozc} \
   brightnessctl pipewire pipewire-pulse pavucontrol wireplumber network-manager-applet \
